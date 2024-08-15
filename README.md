@@ -11,7 +11,7 @@
 
 
 ## Technologies Used
-<b>Machine Learning: </b> LSTM, Keras, OpenCV <br>
+<b>Deep Learning: </b> Resnet50, Keras, OpenCV <br>
 <b>Front End: </b> Html5, Bootstrap, Javascript <br>
 <b>Backend: </b> Nodejs, Flask, Expressjs, MongoDB <br>
 <b>Containerised using Docker </b> <br>
